@@ -159,4 +159,10 @@ C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\bin\Debug\net5
 C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\_UILayout.cshtml.g.cs
-C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\ERDEM\source\repos\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs

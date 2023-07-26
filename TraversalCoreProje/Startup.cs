@@ -52,6 +52,21 @@ namespace TraversalCoreProje
 				endpoints.MapRazorPages();
 			});
 
+
+			app.UseEndpoints(endpoints =>
+			{
+				endpoints.MapControllerRoute(
+					name: "default",
+					pattern: "{controller=Default}/{action=Index}/{id?}");
+			});
+
+
+			app.UseEndpoints(endpoints =>
+			{
+				endpoints.MapControllerRoute("Default", "{controller=Home}/{action=Index}/{id?}");
+			});
 		}
 	}
 }
+
+

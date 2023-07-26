@@ -1,4 +1,4 @@
-﻿using EntityLayer;
+﻿using EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Concrete
 {
-	public class Context:DbContext
+    public class Context:DbContext
 	{
 		// Veri tabanı bağlantı kurma metodu.
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

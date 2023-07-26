@@ -21,6 +21,7 @@ namespace TraversalCoreProje
 				.ConfigureWebHostDefaults(webBuilder =>
 				{
 					webBuilder.UseStartup<Startup>();
+
 				});
 	}
 }
